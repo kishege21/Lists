@@ -1,0 +1,29 @@
+h1{
+  font-family: serif;
+  font-size:40px;
+  font-weight: bold;
+  color: #DD571C;
+}
+h2{
+  font-family: serif;
+  color: #710193;
+  font-weight: bold;
+  font-size:30px;
+}
+p{
+  width:600px;
+  font-family: serif;
+  font-size: 20px;
+}
+ul{
+  font: serif;
+  font-size: 20px;
+  list-style-type: square;
+}
+ol{
+  text-decoration: underline;
+}
+.purple{
+  color: #FF1694;  
+  text-decoration: underline;
+}
